@@ -1,6 +1,6 @@
 # FACOM_Hacktoberfest_2019
 
-# 1- Create a directory with your favorite language
+<h2> 1- Create a directory with your favorite language</h2>
 
 # 2- Upload your file 
 
