@@ -6,6 +6,8 @@
 
 # 3- Add your name in contributors
 
+# 4 - Avoid hello world files, please.
+
 # Happy Hacktoberfest 2019.
 
 
