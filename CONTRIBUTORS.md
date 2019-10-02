@@ -1,2 +1,2 @@
 1. [Gabriel Bernardi](https://github.com/gabrielrbernardi)
-2. [Ajay Jha](httsp://gothub.com/ajayjha5899)
+2. [Ajay Jha](https://github.com/ajayjha5899)
