@@ -5,4 +5,6 @@
 5. [Aman Jain](https://github.com/amannayak0007)
 6. [Tanvi Battu](https://github.com/tanvibattu)
 7. [Rodrigo Zamboni](https://github.com/rodrigozamb)
-8. [Damir Zeric](https://github.com/dankmir)
+8. [Ananya](https://github.com/ananyaduggal)
+9. [Eduardonunes5](https://github.com/EduardoNunes5)
+10. [Damir Zeric](https://github.com/dankmir)
