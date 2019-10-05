@@ -4,11 +4,15 @@
 int PrimeNumber(int number) {
 	int i = 2;
 	int prime = 1;
-
-	while (prime && i <= sqrtf(number)) {
-		if (number % i == 0) { prime = 0; }
-		i++;
-	}
+	
+    if (number != 0 && number != 1) {
+    	while (prime && i <= sqrtf(number)) {
+    		if (number % i == 0) { prime = 0; }
+    		i++;
+    	}
+    } else {
+        prime = 0;
+    }
 	return prime;
 }
 
