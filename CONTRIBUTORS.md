@@ -7,6 +7,6 @@
 7. [Rodrigo Zamboni](https://github.com/rodrigozamb)
 8. [Ananya](https://github.com/ananyaduggal)
 9. [Eduardonunes5](https://github.com/EduardoNunes5)
-10.[Damir Zeric](https://github.com/dankmir)
-10.[Gursimran](https://github.com/imgsingh)
+10.[Damir Zeric](https://github.com/dankmir) \n
+11.[Gursimran](https://github.com/imgsingh)
 
