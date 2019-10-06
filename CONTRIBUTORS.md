@@ -8,5 +8,6 @@
 8. [Ananya](https://github.com/ananyaduggal)
 9. [Eduardonunes5](https://github.com/EduardoNunes5)
 10.[Damir Zeric](https://github.com/dankmir)
-11.[Gursimran](https://github.com/imgsingh)
-
+11.[Hitendrita Panda](https://github.com/Hitendrita)
+12.[Bhupesh Kumar](https://github.com/bhupeshk3014)
+13.[Gursimran](https://github.com/imgsingh)
