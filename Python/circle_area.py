@@ -1,8 +1,6 @@
-print("Type the circle radius :")
-
-x = float(input())
-
-print("Area : ",round(3.1415926*(x*x),4))
+Radius=int(input ('enter radius:'))
+import math
+Area=math.pi*Radius(pow,2)
 
 
 This can also be done easily using a function(areacalc)
